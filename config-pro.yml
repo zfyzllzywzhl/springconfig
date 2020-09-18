@@ -1,1 +1,2 @@
-pro
+config:
+   info: "config in pro(master) version1"
