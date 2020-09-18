@@ -1,1 +1,2 @@
-dev
+config:
+   info: "config in dev(master) version1"
